@@ -1949,6 +1949,7 @@
                                 "edit healthcheck-action",
                                 "set action-type aws-lambda",
                                 "set aws-api-path healthcheck",
+                                "set aws-domain amazonaws.com.cn",
                                 "set aws-api-stage prod",
                                 "set aws-region {Region}",
                                 "set aws-api-id {HealthCheckAPI}",
